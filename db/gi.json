@@ -1,7 +1,7 @@
 [
     {
         "brand": "Shoyoroll",
-        "colors": "turquiose/black",
+        "color": "turquiose/black",
         "size": "A2"
     },
     {
@@ -12,6 +12,11 @@
     {
         "brand": "Arm Bar & Soap",
         "color": "brown/rasta",
+        "size": "A2"
+    },
+    {
+        "brand": "Shoyoroll",
+        "color": "white/blue",
         "size": "A2"
     }
 ]
