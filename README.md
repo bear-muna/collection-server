@@ -1,0 +1,2 @@
+# collection-server
+Local server
